@@ -2,7 +2,7 @@
 
 Ne Yapsam? bir karar alma asistanıdır. Eğer kafan karışıksa ve eğlenceli bir yanıt arıyorsan, bu proje senin için burada. Her türlü soruya rastgele, motivasyon dolu veya esprili cevaplar vererek seni yönlendirebilir.
 
-## Özellikler
+## Özellikler :
 
 - Kullanıcıdan ad ve soru alır. 
 - 25 farklı, rastgele ve esprili cevap döner .
